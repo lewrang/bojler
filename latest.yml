@@ -1,7 +1,7 @@
 version: 1.0.0
-releaseDate: '2017-09-27T07:09:09.651Z'
+releaseDate: '2017-09-27T07:43:59.322Z'
 path: ElectronReact Setup 1.0.0.exe
 sha512: >-
-  /DpEGXvbr4QCQmJy2ygrAe0k8jc1aB28rqKBvadNQPiNOLzq1VRfaIMHhkFVn5cnVhGTqgC4EUNm6Lt6znZnzw==
-sha2: d32ea8a76eb12896675c970c9a6d702e8345e921415301bb8d2ae795d26a8aee
+  vsg2uUmxrqEEVDaicEhisTlj7ZgwYRX6v2GXR+HVxlwEVfzI5W2ewt25lJp+tHmvVQx0oFNM+hDHq2zZXGUN7Q==
+sha2: 5a29565f3d4bb66157de43da938d3faf4cbaed74c1f74c8e49fe70173084e9cd
 githubArtifactName: electron-react-boilerplate-setup-1.0.0.exe
