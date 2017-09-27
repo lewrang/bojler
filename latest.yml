@@ -1,7 +1,7 @@
-version: 1.0.2
-releaseDate: '2017-09-27T12:37:15.059Z'
-path: Bojler Setup 1.0.2.exe
+version: 1.0.3
+releaseDate: '2017-09-27T12:46:43.335Z'
+path: Bojler Setup 1.0.3.exe
 sha512: >-
-  815eSbd6BLQvLChcU3Pm1E7a5N4xAqxKO0wM6r1brZ+AU+JR/EsLVC5V4yfPY4TxTm1VtgnRPLI6bZeIH70Ovw==
-sha2: 3b62f6c89123a5e300fe4b9bb4cd66b760a2d3d49afc2b42e89644352597fc52
-githubArtifactName: reakt-bojlerplejt-setup-1.0.2.exe
+  j7kyQNa0HZX+Lgm+A1bUN3wKT+p4o02fDmdSd2stfZj4eAzy7VdYjlvP/nVFgvZHlQ+oOzD10e2u4hZ4IcQtKQ==
+sha2: bfbadb95581fac9d7085538ea09398d7b5874110aac93dbc429ac693b79940be
+githubArtifactName: reakt-bojlerplejt-setup-1.0.3.exe
