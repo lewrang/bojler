@@ -1,7 +1,7 @@
-version: 1.0.0
-releaseDate: '2017-09-27T07:43:59.322Z'
-path: ElectronReact Setup 1.0.0.exe
+version: 1.0.2
+releaseDate: '2017-09-27T12:37:15.059Z'
+path: Bojler Setup 1.0.2.exe
 sha512: >-
-  vsg2uUmxrqEEVDaicEhisTlj7ZgwYRX6v2GXR+HVxlwEVfzI5W2ewt25lJp+tHmvVQx0oFNM+hDHq2zZXGUN7Q==
-sha2: 5a29565f3d4bb66157de43da938d3faf4cbaed74c1f74c8e49fe70173084e9cd
-githubArtifactName: electron-react-boilerplate-setup-1.0.0.exe
+  815eSbd6BLQvLChcU3Pm1E7a5N4xAqxKO0wM6r1brZ+AU+JR/EsLVC5V4yfPY4TxTm1VtgnRPLI6bZeIH70Ovw==
+sha2: 3b62f6c89123a5e300fe4b9bb4cd66b760a2d3d49afc2b42e89644352597fc52
+githubArtifactName: reakt-bojlerplejt-setup-1.0.2.exe
